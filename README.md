@@ -18,4 +18,4 @@ Content | Description
 ## Pandas
 Content | Description 
 --- | --- 
-[1: Numpy]() | ---
+[1: Numpy](https://github.com/ThanatPay/Python/blob/main/Pandas/1_Numpy.ipynb) | ---
