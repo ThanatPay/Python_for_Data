@@ -2,6 +2,7 @@
 Basic python in jupyter notebook for Data Science and Data Engineering.
 
 ## Introduction
+Content | Description 
 --- | --- 
 1: Hello World and Strings | ---
 2: Simple Math | ---
