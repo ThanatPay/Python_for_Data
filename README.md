@@ -7,7 +7,6 @@ Content | Description
 [1: Strings Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/01string_manipulations.ipynb) | Strings are a special type of a python class and written within Quotation Mark " "
 [2: Simple Math](https://github.com/ThanatPay/Python/blob/main/Introduction/02simple_math.ipynb) | Python can calculate Math function + - * ** / // %
 [3: If Else Elif Statements](https://github.com/ThanatPay/Python/blob/main/Introduction/03if_else_statement.ipynb) | if: check if something is True. else: check out of condition and must be after an if or elif statement. elif: statement allows you to check multiple expressions for True
-Similar to the else, the elif statement is optional. However, unlike else, for which there can be at most one statement, there can be an arbitrary number of elif statements following an if
 [4: Lists and List Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/04List_manipulations.ipynb) | Lists are a special type of a python class and written within square brackets [ ]
 [5: For Loops](https://github.com/ThanatPay/Python/blob/main/Introduction/05for_loop.ipynb) | For loops are a common way to iterate over the elements of an object.
 [6: Tuple Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/06Tuples.ipynb) | Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed (immutable) unlike lists (mutable).
