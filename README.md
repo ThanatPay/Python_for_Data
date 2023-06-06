@@ -4,7 +4,7 @@ Basic python in jupyter notebook for Data Science and Data Engineering.
 ## Introduction
 Content | Description 
 --- | --- 
-[1: Strings Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/01string_manipulations.ipynb) | ---
+[1: Strings Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/01string_manipulations.ipynb) | Strings are a special type of a python class. As objects, in a class, you can call methods on string objects using the .methodName() notation. The string class is available by default in python, so you do not need an import statement to use the object interface to strings.
 [2: Simple Math](https://github.com/ThanatPay/Python/blob/main/Introduction/02simple_math.ipynb) | ---
 [3: If Else Elif Statements](https://github.com/ThanatPay/Python/blob/main/Introduction/03if_else_statement.ipynb) | ---
 [4: Lists and List Manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/04List_manipulations.ipynb) | ---
