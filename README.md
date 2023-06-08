@@ -15,7 +15,7 @@ Content | Description
 [9: Class Implementation](https://github.com/ThanatPay/Python/blob/main/Introduction/09class.ipynb) | Class is a code template for creating objects. This notebook shows the various implementations of class.
 [10: Exception](https://github.com/ThanatPay/Python/blob/main/Introduction/10exception.ipynb) | Exception can handle any unexpected error in your Python programs and to add debugging capabilities in them. This notebook shows simple exception.
 
-## Pandas
+## DataFrame
 Content | Description 
 --- | --- 
 [1: Numpy](https://github.com/ThanatPay/Python/blob/main/Pandas/1_Numpy.ipynb) | NumPy is a library for the Python programming, adding support for large, multi-dimensional arrays and matrices. This notebook shows using NumPy manipulate vectors and matrices.
