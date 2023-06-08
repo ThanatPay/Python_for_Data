@@ -16,6 +16,7 @@ Content | Description
 [10: Exception](https://github.com/ThanatPay/Python/blob/main/Introduction/10exception.ipynb) | Exception can handle any unexpected error in your Python programs and to add debugging capabilities in them. This notebook shows simple exception.
 
 ## DataFrame
+DataFrame is a data structure that organizes data into a 2-dimensional table of rows and columns, much like a spreadsheet. The size of the dataframe is uncertain. Table data may be different.
 Content | Description 
 --- | --- 
 [1: Numpy](https://github.com/ThanatPay/Python/blob/main/Pandas/1_Numpy.ipynb) | NumPy is a library for the Python programming, adding support for large, multi-dimensional arrays and matrices. This notebook shows using NumPy manipulate vectors and matrices.
