@@ -20,3 +20,12 @@ Content | Description
 --- | --- 
 [1: Numpy](https://github.com/ThanatPay/Python/blob/main/Pandas/1_Numpy.ipynb) | NumPy is a library for the Python programming, adding support for large, multi-dimensional arrays and matrices. This notebook shows using NumPy manipulate vectors and matrices.
 [2: Pandas](https://github.com/ThanatPay/Python/blob/main/Pandas/2_Pandas.ipynb) | Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. This notebook shows using Pandas manipulate data. And example using Pandas manipulate Youtube Trending Data Exploration ([Basic](https://github.com/ThanatPay/Python/blob/main/Pandas/3_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb) and [Advance](https://github.com/ThanatPay/Python/blob/main/Pandas/4_Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb))
+
+## Data cleaning and preparation
+Data cleaning and preparation is the process of preparing data for analysis. This includes identifying and removing errors, filling in missing values, and dealing with outliers. Data preparation can be a time-consuming process (the most data scientists spend most of their time cleaning data), but it is essential for ensuring that your data is accurate and ready for analysis.
+Content | Description 
+--- | --- 
+[1: Clean and prepare loans data](https://github.com/ThanatPay/Python/blob/main/DataPreparation/1_LoansDataSet.ipynb) | ---
+2: Impute missing value | ---
+3: Split train test  | ---
+4: Detect and Remove the Outliers | ---
