@@ -26,7 +26,7 @@ Content | Description
 Data cleaning and preparation is the process of preparing data for analysis. This includes identifying and removing errors, filling in missing values, and dealing with outliers. Data preparation can be a time-consuming process (the most data scientists spend most of their time cleaning data), but it's important to make sure your data is accurate and ready for analysis.
 Content | Description 
 --- | --- 
-[1: Clean and prepare loans data](https://github.com/ThanatPay/Python/blob/main/DataPreparation/1_LoansDataSet.ipynb) | ---
-2: Impute missing value | ---
+1: Clean and prepare loans data | Loans data is columns that contain only one unique value. These columns aren't useful for the model. This notebook shows how to [clean and prepare loans data](https://github.com/ThanatPay/Python/blob/main/DataPreparation/1_LoansDataSet.ipynb)
+2: Impute missing value | Missing values occur when no data value stored for some variables. Data may be lost due to incomplete data entry. Device malfunctions, lost files and other reasons. This notebook shows how to [impute missing value](https://github.com/ThanatPay/Python/blob/main/DataPreparation/2_ImputeMissingValue.ipynb)
 3: Split train test  | ---
 4: Detect and Remove the Outliers | ---
