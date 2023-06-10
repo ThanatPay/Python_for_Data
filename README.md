@@ -30,3 +30,27 @@ Content | Description
 2: Impute missing value | Missing values occur when no data value stored for some variables. Data may be lost due to incomplete data entry. Device malfunctions, lost files and other reasons. This notebook shows how to [impute missing value](https://github.com/ThanatPay/Python/blob/main/DataPreparation/2_ImputeMissingValue.ipynb)
 3: Split train test  | Training set is a subset of a dataset that is used to train a machine learning model. Testing set is a subset of a dataset that is used to evaluate the performance of a trained machine learning model. This notebook shows how to [split train test](https://github.com/ThanatPay/Python/blob/main/DataPreparation/3_SplitTrainTest.ipynb) 
 4: Detect and Remove the Outliers | Outliers are data points that deviate significantly from the majority of the other data points in a dataset. Outlier can occur due to various reasons, such as measurement errors, experimental anomalies, or rare events. This notebook shows how to detect and remove outlier ([Titanic Dataset](https://github.com/ThanatPay/Python/blob/main/DataPreparation/4_Outliers_Titanic.ipynb) and [Boston Dataset](https://github.com/ThanatPay/Python/blob/main/DataPreparation/5_Outliers_Boston_(optional).ipynb)) 
+
+## Maching Learning
+Content | Description 
+--- | --- 
+1: Decision Trees (Random Forest) | ---
+2: Linear Regression | ---
+3: Logistic Regression | ---
+4: Neural Network | ---
+5: K Nearest Neighbors| ---
+6: Support Vector Machine | ---
+7: Save Model | ---
+8: K Mean Clustering | ---
+
+## Deep Learning
+
+## Data Storage
+
+## Data Extraction
+
+## Data Ingestion
+
+## Big Data Processing
+
+## DataOps and MLOps
