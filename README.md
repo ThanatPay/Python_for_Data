@@ -44,15 +44,29 @@ Content | Description
 8: K Mean Clustering | ---
 
 ## Deep Learning
+Content | Description 
+--- | --- 
 
 ## Data Storage
+Content | Description 
+--- | --- 
 
 ## Data Extraction
+Content | Description 
+--- | --- 
 
 ## Data Ingestion
+Content | Description 
+--- | --- 
 
 ## Big Data Processing
+Content | Description 
+--- | --- 
 
 ## DataOps and MLOps
+Content | Description 
+--- | --- 
 
 ## Data Visualization
+Content | Description 
+--- | --- 
