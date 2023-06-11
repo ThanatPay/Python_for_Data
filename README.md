@@ -54,3 +54,5 @@ Content | Description
 ## Big Data Processing
 
 ## DataOps and MLOps
+
+## Data Visualization
