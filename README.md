@@ -32,12 +32,13 @@ Content | Description
 4: Detect and Remove the Outliers | Outliers are data points that deviate significantly from the majority of the other data points in a dataset. Outlier can occur due to various reasons, such as measurement errors, experimental anomalies, or rare events. This notebook shows how to detect and remove outlier ([Titanic Dataset](https://github.com/ThanatPay/Python/blob/main/DataPreparation/4_Outliers_Titanic.ipynb) and [Boston Dataset](https://github.com/ThanatPay/Python/blob/main/DataPreparation/5_Outliers_Boston_(optional).ipynb)) 
 
 ## Maching Learning
+Machine Learning (ML) is a subfield in AI focusing on understanding and building methods that let machines learn by itself without human intervention. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do. Machine learning algorithms are used in applications such as medical, email filtering, speech recognition, computer vision.
 Content | Description 
 --- | --- 
-1: Decision Trees (Random Forest) | ---
-2: Linear Regression | ---
-3: Logistic Regression | ---
-4: Neural Network | ---
+1: Decision Trees (Random Forest) | Decision Trees (DT) is a decision support hierarchical model that used tree-like model. DT learn simple decision rules inferred from data features. Multiple decision trees are used for voting output to enhance decision making, known as Random Forest. This notebook shows example [Decision Trees](https://github.com/ThanatPay/Python/blob/main/MachineLearning/1_Decision_Trees.ipynb) and [Ramdom Forest](https://github.com/ThanatPay/Python/blob/main/MachineLearning/1_RandomForest(hed2020).ipynb)
+2: Linear Regression | Linear regression is linear approach for modeling the relationship between one/more input variables and output variable(numerical data). This notebook shows [example linear regression](https://github.com/ThanatPay/Python/blob/main/MachineLearning/2_Linear_Regression.ipynb).
+3: Logistic Regression | Logistic regression is statictic approach for modeling relationship between one/more input variables and output variable(category data). This notebook shows [exaple logistic regression](https://github.com/ThanatPay/Python/blob/main/MachineLearning/3_Logistic_Regression.ipynb)
+4: Neural Network | Neural Networks (NN) are the heart of deep learning algorithms. Their name and structure are inspired by the human brain. NN are comprised an input layer, one or more hidden layers, and an output layer.  This notebook shows [example neural network](https://github.com/ThanatPay/Python/blob/main/MachineLearning/4_Neural_Network.ipynb)
 5: K Nearest Neighbors| ---
 6: Support Vector Machine | ---
 7: Save Model | ---
