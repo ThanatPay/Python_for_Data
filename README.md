@@ -39,10 +39,10 @@ Content | Description
 2: Linear Regression | Linear regression is linear approach for modeling the relationship between one/more input variables and output variable(numerical data). This notebook shows [example linear regression](https://github.com/ThanatPay/Python/blob/main/MachineLearning/2_Linear_Regression.ipynb).
 3: Logistic Regression | Logistic regression is statictic approach for modeling relationship between one/more input variables and output variable(category data). This notebook shows [exaple logistic regression](https://github.com/ThanatPay/Python/blob/main/MachineLearning/3_Logistic_Regression.ipynb)
 4: Neural Network | Neural Networks (NN) are the heart of deep learning algorithms. Their name and structure are inspired by the human brain. NN are comprised an input layer, one or more hidden layers, and an output layer.  This notebook shows [example neural network](https://github.com/ThanatPay/Python/blob/main/MachineLearning/4_Neural_Network.ipynb)
-5: K Nearest Neighbors| ---
-6: Support Vector Machine | ---
-7: Save Model | ---
-8: K Mean Clustering | ---
+5: K Nearest Neighbors| K-Nearest Neighbors (k-NN) is a non-parametric supervised learning method. Input consists of the k closest training examples in a data set. Output in k-NN classification is a class membership (plurality vote of k nearest neighbors). Output in k-NN regression is the property value for the object (average of the values of k nearest neighbors). This notebook shows [example K Nearest Neighbors](https://github.com/ThanatPay/Python/blob/main/MachineLearning/5_K_Nearest_Neighbors.ipynb)
+6: Support Vector Machine | Support vector machines (SVMs) are supervised learning models. The purpose is to find hyperplane in an N-dimension space with maximum margin (maximum distance between the data points of both classes) to classify data. You can use multi-SVM for classify multi-class. This notebook shows [example SVM](https://github.com/ThanatPay/Python/blob/main/MachineLearning/6_Support_Vector_Machine.ipynb)
+7: Save Load Model | Model progress can be saved during and after training. This means that the model can continue where it left off and avoid lengthy training times. Saving also means you can share your model with others or recreate your work when publishing models and research techniques. This notebook shows how to [save and load model](https://github.com/ThanatPay/Python/blob/main/MachineLearning/7_Save_Load_Model.ipynb).
+8: K Mean Clustering | This notebook shows [example K mean clustering](https://github.com/ThanatPay/Python/blob/main/MachineLearning/8_K_Means_Clustering.ipynb)
 
 ## Deep Learning
 Content | Description 
