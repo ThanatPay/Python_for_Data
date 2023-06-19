@@ -42,11 +42,14 @@ Content | Description
 5: K Nearest Neighbors| K-Nearest Neighbors (k-NN) is a non-parametric supervised learning method. Input consists of the k closest training examples in a data set. Output in k-NN classification is a class membership (plurality vote of k nearest neighbors). Output in k-NN regression is the property value for the object (average of the values of k nearest neighbors). This notebook shows [example K Nearest Neighbors](https://github.com/ThanatPay/Python/blob/main/MachineLearning/5_K_Nearest_Neighbors.ipynb)
 6: Support Vector Machine | Support vector machines (SVMs) are supervised learning models. The purpose is to find hyperplane in an N-dimension space with maximum margin (maximum distance between the data points of both classes) to classify data. You can use multi-SVM for classify multi-class. This notebook shows [example SVM](https://github.com/ThanatPay/Python/blob/main/MachineLearning/6_Support_Vector_Machine.ipynb)
 7: Save Load Model | Model progress can be saved during and after training. This means that the model can continue where it left off and avoid lengthy training times. Saving also means you can share your model with others or recreate your work when publishing models and research techniques. This notebook shows how to [save and load model](https://github.com/ThanatPay/Python/blob/main/MachineLearning/7_Save_Load_Model.ipynb).
-8: K Mean Clustering | This notebook shows [example K mean clustering](https://github.com/ThanatPay/Python/blob/main/MachineLearning/8_K_Means_Clustering.ipynb)
+8: K Mean Clustering | K-means clustering is a method that aims to partition n samples into k clusters. Each sample in clusters is nearest its centroid cluster. This notebook shows [example K mean clustering](https://github.com/ThanatPay/Python/blob/main/MachineLearning/8_K_Means_Clustering.ipynb)
 
 ## Deep Learning
+Deep learning (DL) is a type of machine learning based on neural networks in which multiple layers of processing. DL are used to extract progressively higher level features from data. DL have been applied to fields including computer vision, speech recognition, natural language processing, etc.
 Content | Description 
 --- | --- 
+1: Image Classification | Image classification is a task of computer vision that use model predict class of image. This notebook shows how to [classify images of flowers](https://github.com/ThanatPay/Python/blob/main/DeepLearning/1_Image_classification_(Basic).ipynb).
+2: | ---
 
 ## Data Storage
 Content | Description 
