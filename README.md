@@ -48,8 +48,9 @@ Content | Description
 Deep learning (DL) is a type of machine learning based on neural networks in which multiple layers of processing. DL are used to extract progressively higher level features from data. DL have been applied to fields including computer vision, speech recognition, natural language processing, etc.
 Content | Description 
 --- | --- 
-1: Image Classification | Image classification is a task of computer vision that use model predict class of image. This notebook shows how to [classify images of flowers](https://github.com/ThanatPay/Python/blob/main/DeepLearning/1_Image_classification_(Basic).ipynb).
-2: | ---
+1: Image Classification | Image classification is a task of computer vision that use model predict class of image. This notebook shows how to classify images of flowers ([Basic CNN model](https://github.com/ThanatPay/Python/blob/main/DeepLearning/1_Image_classification_(Basic).ipynb) and [EfficientNetB1 model with pre-train weight](https://github.com/ThanatPay/Python/blob/main/DeepLearning/2_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb)).
+2: Images Segmentation | This notebook shows [example image segmentation]()
+3: Time Series Forecasting| This notebook shows [example time series forecasting]()
 
 ## Data Storage
 Content | Description 
