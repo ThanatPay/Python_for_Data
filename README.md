@@ -49,8 +49,8 @@ Deep learning (DL) is a type of machine learning based on neural networks in whi
 Content | Description 
 --- | --- 
 1: Image Classification | Image classification is a task of computer vision that use model predict class of image. This notebook shows how to classify images of flowers ([Basic CNN model](https://github.com/ThanatPay/Python/blob/main/DeepLearning/1_Image_classification_(Basic).ipynb) and [EfficientNetB1 model with pre-train weight](https://github.com/ThanatPay/Python/blob/main/DeepLearning/2_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb)).
-2: Images Segmentation | This notebook shows [example image segmentation]()
-3: Time Series Forecasting| This notebook shows [example time series forecasting]()
+2: Images Segmentation | Images Segmentation is a task of computer vision that use model locate objects and boundaries (lines, curves, etc.) in images. This notebook shows [example image segmentation](https://github.com/ThanatPay/Python/blob/main/DeepLearning/3_Segmentation_UNet.ipynb).
+3: Time Series Forecasting| Time series forecasting is the process of analyzing time series data using statistics and modeling to make predictions and inform strategic decision-making. This notebook shows [example time series forecasting]().
 
 ## Data Storage
 Content | Description 
