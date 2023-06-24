@@ -73,5 +73,7 @@ Content | Description
 --- | --- 
 
 ## Data Visualization
+Data visualization is a process of finding trends and correlations in data by visual representation of data by visualizing data.
 Content | Description 
 --- | --- 
+1: Visualization with python | To perform data visualization in python, we can use various python data visualization modules such as Matplotlib, Seaborn, Plotly, etc. This notebook shows how to [perform iris data visualization in python](https://github.com/ThanatPay/Python/blob/main/Visualization/simple_Matplotlib.ipynb).
