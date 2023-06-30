@@ -53,21 +53,20 @@ Content | Description
 3: Time Series Forecasting| Time series forecasting is the process of analyzing time series data using statistics and modeling to make predictions and inform strategic decision-making. This notebook shows [example time series forecasting](https://github.com/ThanatPay/Python/blob/main/DeepLearning/4_StockPricePredication_LSTM.ipynb).
 
 ## Data Storage
-A data store is a digital repository that stores information in computer systems. A data store can be network-connected storage, distributed cloud storage, a physical hard drive, or virtual storage. It can store both structured data like information tables and unstructured data like emails, images, and videos.
+A data store is a digital repository that stores information in computer systems. A data store can be network-connected storage, distributed cloud storage, a physical hard drive, or virtual storage. It can store both structured data (information tables) and unstructured data (emails, images, videos).
 Content | Description 
 --- | --- 
 1: Redis | Redis (Remote Dictionary Server) is an in-memory data structure store with clustering, transactional, time-to-live limiting, and auto-failover capabilities. Support wide-range of data structure and many programing languages. This notebook shows [simple social network datastore example](https://github.com/ThanatPay/Python/blob/main/Redis/redis_simple_social_network_example.ipynb).
 
 
 ## Data Extraction
-Data extraction is the process of collecting data from various sources for the purpose of transformation, storage, or feeding it to another system for analysis. The sources of data is extracted may be structured or unstructured. 
+Data extraction is the process of collecting data from various sources for the purpose of transformation, storage, or feeding it to another system for analysis. The sources of data is extracted may be structured or unstructured. 2 steps of Data Extraction are Data Accessing (Reading a file, issue a HTTP request, crawing a web site using Scrappy, calling REST API using request, calling Third-Party API using compatible library) and Data Parsing (Parsing text using regular expression, Parsing docx using python-docx, Parsing excel using Pandas, Parsing HTML page using BeautifulSoup, Parsing JSON string using JSON)
 Content | Description 
 --- | --- 
-1: Webpage Scraping | Web scraping is the process that extract content and data from a website. Unlike screen scraping, which only copies pixels displayed onscreen, web scraping extracts underlying HTML code and data stored in a database. This notebook shows [basic webpage scraping](https://github.com/ThanatPay/Python/blob/main/DataExtract/1_basic.ipynb).
-2: |
-3: |
-4: |
-5: |
+1: BeautifulSoup | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with parser to provide ways of navigating, searching, and modifying the parse tree. This notebook shows how to [get data from file HTML](https://github.com/ThanatPay/Python/blob/main/DataExtract/1_basic.ipynb) and [get data from wikipeidia page using requests](https://github.com/ThanatPay/Python/blob/main/DataExtract/2_wiki_extraction.ipynb).
+2: REST API |
+3: Third-party API |
+4: Selenium |
 
 ## Data Ingestion
 Content | Description 
