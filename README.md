@@ -67,7 +67,7 @@ Content | Description
 1: BeautifulSoup | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with parser to provide ways of navigating, searching, and modifying the parse tree. This notebook shows how to [get data from file HTML](https://github.com/ThanatPay/Python/blob/main/DataExtract/1_basic.ipynb) and [get data from wikipeidia page using requests](https://github.com/ThanatPay/Python/blob/main/DataExtract/2_wiki_extraction.ipynb).
 2: REST API | REST API is a software architectural style that defines a set of principles for building web services. It provides a standardized way for different systems to communicate with each other over the internet. This notebook shows how to [get data from REST API](https://github.com/ThanatPay/Python/blob/main/DataExtract/3_rest_api.ipynb).
 3: Third-party API | Third-party API is an API that is provided by a third-party service or platform. These APIs are developed by external parties and made available for others to use in their applications. This notebook shows How to [get data from Twitter API](https://github.com/ThanatPay/Python/blob/main/DataExtract/4_twitter_extraction.ipynb).
-4: Selenium |
+4: Selenium | The selenium package is used to automate web browser interaction from Python. This notebook shows how to [use Selenium to extract data from the web](https://github.com/ThanatPay/Python_notebook/blob/main/DataExtract/5_selenium.ipynb)
 
 ## Data Ingestion
 Content | Description 
