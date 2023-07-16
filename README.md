@@ -1,20 +1,6 @@
 <h1 align="center"> Python </h1>
 Basic python in jupyter notebook for Data Science and Data Engineering.
 
-## Introduction
-Content | Description 
---- | --- 
-1: Strings Manipulation | Strings are a special type of a python class and written within Quotation Mark " ". This notebook shows [simple strings manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/01string_manipulations.ipynb).
-2: Simple Math | Python can calculate Math function + - * ** / // %. This notebook shows [calculate Math with Python](https://github.com/ThanatPay/Python/blob/main/Introduction/02simple_math.ipynb).
-3: If Else Elif Statements | if: check if something is True. else: check out of condition and must be after an if or elif statement. elif: statement allows you to check multiple expressions for True. This notebook shows [simple if, else, elif statement](https://github.com/ThanatPay/Python/blob/main/Introduction/03if_else_statement.ipynb).
-4: Lists and List Manipulation | Lists are data structure in Python that are mutable or changeable or ordered sequence of elements. Lists are written within square brackets [ ]. This notebook shows [simple lists manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/04List_manipulations.ipynb).
-5: For Loops | For loops are a common way to iterate over the elements of an object through a certain number of values. This notebook shows how to [iterate over objects with number of iterations](https://github.com/ThanatPay/Python/blob/main/Introduction/05for_loop.ipynb).
-6: Tuple Manipulation | Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed (immutable) unlike lists (mutable). This notebook shows [simple tuples manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/06Tuples.ipynb).
-7: Dictionary Manipulation | Dictionaries are unordered data structures that map keys into values. The value can be anything (lists, functions, strings, anything). The key has to be immutable (numbers, strings or tuples). This notebook shows [simple dictionary manipulation](https://github.com/ThanatPay/Python/blob/main/Introduction/07Dictionary.ipynb).
-8: While Loop | While loop is't necessary to terate through a certain number of values, just keep going until condition evaluates to False. This notebook shows how to [iterate over objects without number of iterations](https://github.com/ThanatPay/Python/blob/main/Introduction/08while_loop.ipynb).
-9: Class Implementation | Class is a code template for creating objects. This notebook shows [the various implementations of class](https://github.com/ThanatPay/Python/blob/main/Introduction/09class.ipynb).
-10: Exception | Exception can handle any unexpected error in your Python programs and to add debugging capabilities in them. This notebook shows [simple exception](https://github.com/ThanatPay/Python/blob/main/Introduction/10exception.ipynb).
-
 ## DataFrame
 DataFrame is a data structure that organizes data into a 2-dimensional table of rows and columns, much like a spreadsheet. The size of the dataframe is uncertain. Table data may be different.
 Content | Description 
@@ -59,7 +45,6 @@ Content | Description
 --- | --- 
 1: Redis | Redis (Remote Dictionary Server) is an in-memory data structure store with clustering, transactional, time-to-live limiting, and auto-failover capabilities. Support wide-range of data structure and many programing languages. This notebook shows [simple social network datastore example](https://github.com/ThanatPay/Python/blob/main/Redis/redis_simple_social_network_example.ipynb).
 
-
 ## Data Extraction
 Data extraction is the process of collecting data from various sources for the purpose of transformation, storage, or feeding it to another system for analysis. The sources of data is extracted may be structured or unstructured. 2 steps of Data Extraction are Data Accessing (Reading a file, issue a HTTP request, crawing a web site using Scrappy, calling REST API using request, calling Third-Party API using compatible library) and Data Parsing (Parsing text using regular expression, Parsing docx using python-docx, Parsing excel using Pandas, Parsing HTML page using BeautifulSoup, Parsing JSON string using JSON)
 Content | Description 
@@ -67,19 +52,7 @@ Content | Description
 1: BeautifulSoup | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with parser to provide ways of navigating, searching, and modifying the parse tree. This notebook shows how to [get data from file HTML](https://github.com/ThanatPay/Python/blob/main/DataExtract/1_basic.ipynb) and [get data from wikipeidia page using requests](https://github.com/ThanatPay/Python/blob/main/DataExtract/2_wiki_extraction.ipynb).
 2: REST API | REST API is a software architectural style that defines a set of principles for building web services. It provides a standardized way for different systems to communicate with each other over the internet. This notebook shows how to [get data from REST API](https://github.com/ThanatPay/Python/blob/main/DataExtract/3_rest_api.ipynb).
 3: Third-party API | Third-party API is an API that is provided by a third-party service or platform. These APIs are developed by external parties and made available for others to use in their applications. This notebook shows How to [get data from Twitter API](https://github.com/ThanatPay/Python/blob/main/DataExtract/4_twitter_extraction.ipynb).
-4: Selenium | The selenium package is used to automate web browser interaction from Python. This notebook shows how to [use Selenium to extract data from the web](https://github.com/ThanatPay/Python_notebook/blob/main/DataExtract/5_selenium.ipynb)
-
-## Data Ingestion
-Content | Description 
---- | --- 
-
-## Big Data Processing
-Content | Description 
---- | --- 
-
-## DataOps and MLOps
-Content | Description 
---- | --- 
+4: Selenium | The selenium package is used to automate web browser interaction from Python. This notebook shows how to [use Selenium to extract data from the web](https://github.com/ThanatPay/Python_notebook/blob/main/DataExtract/5_selenium.ipynb).
 
 ## Data Visualization
 Data visualization is a process of finding trends and correlations in data by visual representation of data by visualizing data.
